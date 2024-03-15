@@ -8,3 +8,9 @@
    
 Note: 
     Its just for assignment purpose.
+
+
+Please add env file in backend with 4 variables (
+    PORT=5000, MONGODB_URI=<i used localhost, you can use yours>,
+    JWT_SECRET=<a random one>,NODE_ENV=development
+)
