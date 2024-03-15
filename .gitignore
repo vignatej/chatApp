@@ -1,0 +1,3 @@
+backend_node/node_modules
+backend_node/node_modules/*
+front_end_react/front_end/node_modules
