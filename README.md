@@ -5,5 +5,6 @@
 3. To run node backend on local device
     1. on terminal change directory to folder where backend is located(i.e. `backend_node`)
     2. run `npm run server`
+   
 Note: 
-    1. Its just for assignment purpose. 
+    Its just for assignment purpose.
