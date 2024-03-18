@@ -21,3 +21,7 @@ Please add env file in backend with 4 variables (
     PORT=5000, MONGODB_URI=<i used localhost, you can use yours>,
     JWT_SECRET=<a random one>,NODE_ENV=development
 )
+
+
+https://github.com/vignatej/chatApp/assets/86559881/2c4702ac-9432-4fbf-a15a-a174f7778ac3
+
