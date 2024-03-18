@@ -7,7 +7,7 @@
     2. run `npm run server`
    
 Note: 
-    Its just for assignment purpose.
+    
 
 
 Please add env file in backend with 4 variables (
